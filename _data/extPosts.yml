@@ -1,3 +1,7 @@
+- url: https://leanpub.com/beyondjquery
+  title: Beyond jQuery
+  summary: A book-in-progress “Beyond jQuery” that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
+
 - url: http://blog.garstasio.com/you-dont-need-jquery
   title: You Don't Need jQuery!
   summary: A seven-part series that will help free you from the chains of jQuery by showing you how to embrace and understand the modern web API and JavaScript.
@@ -5,3 +9,11 @@
 - url: http://engineering.widen.com/blog/tomcat-slashes
   title: Tomcat Hates Encoded Slashes
   summary: Tomcat will treat encoded slashes in a URI as path delimiters. I'll demonstrate how this can cause you problems, why it occurs, and how you can work around it.
+
+- url: http://blog.fineuploader.com/2014/01/15/uploads-without-any-server-code/
+  title: Uploading Files Directly To Amazon S3
+  summary: In this post, you'll learn how to upload files to an Amazon S3 bucket from the browser without involving a server. Fine Uploader will be used as the primary tool to facilitate this workflow.
+
+- url: http://blog.fineuploader.com/2013/11/01/full-stack-javascript-image-uploader-using-angularjs-node-js/
+  title: Full-Stack JavaScript Image Uploader
+  summary: Are you a big fan of JavaScript? Would you prefer to use JS in the browser and on the server? I'll show you how to do all of this with Fine Uploader, AngularJS, and Node.js.
