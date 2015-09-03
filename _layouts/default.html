@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="shortcut icon" href="{{ site.baseurl}}/images/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    <meta name="author" content="{{ site.name }}" />
+    <meta name="description" content="{{ site.description }}">
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <div id="beyond-jquery-alert" aria-hidden="true">
+            <div class="alert-content">
+              <div class="close" role="button" tabindex="0"></div>
+              <div class="message">
+                Do you like this blog? Have you found it helpful but are looking for
+                <em>much more detail</em> and a <em>larger array of topics</em>?
+                Then take a look at my new book-in-progress:
+                <br>
+                <a href="https://leanpub.com/beyondjquery" target="_blank" class="book-title">
+                  <strong><span class="beyond-green">Beyond</span> jQuery</strong>!
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl}}/{{ site.avatar }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <nav>
+            <a href="{{ site.baseurl }}/">Posts</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+          <div>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="{{ site.baseurl}}/images/ccby.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+          </div>
+          <div>
+            This site lives in a <a href="https://github.com/rnicholus/raynicholus.com">GitHub repository</a>.
+          </div>
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+</body>
+
+  <script>
+    (function() {
+      var showPromo = !localStorage.getItem('sawPromo');
+
+      if (showPromo) {
+        var alertEl = document.querySelector('#beyond-jquery-alert');
+
+        setTimeout(function() {
+          alertEl.setAttribute('aria-hidden', 'false');
+          localStorage.setItem('sawPromo', true);
+        }, 30000);
+
+        document.querySelector('#beyond-jquery-alert .close').addEventListener('click', function() {
+          alertEl.setAttribute('aria-hidden', 'true');
+        });
+      }
+    }());
+  </script>
+</html>

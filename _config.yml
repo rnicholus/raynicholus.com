@@ -1,0 +1,30 @@
+name: Train of Thought
+description: Software and technology musings from the mind of Ray Nicholus
+avatar: images/logo.jpeg
+footer-links:
+  email:
+  facebook:
+  github: rnicholus
+  linkedin: raynicholus
+  rss: rss
+  twitter: RayNicholus
+  stackoverflow: users/486979/ray-nicholus
+#disqus: raynicholusposts
+#google_analytics: UA-56385927-1
+url: http://raynicholus.com/posts
+baseurl: ""
+markdown: redcarpet
+redcarpet:
+    extensions: [with_toc_data]
+highlighter: pygments
+permalink: /posts/:title/
+sass:
+  sass_dir: _scss
+  style: :compressed
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
