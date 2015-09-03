@@ -1,0 +1,7 @@
+- url: http://blog.garstasio.com/you-dont-need-jquery
+  title: You Don't Need jQuery!
+  summary: A seven-part series that will help free you from the chains of jQuery by showing you how to embrace and understand the modern web API and JavaScript.
+
+- url: http://engineering.widen.com/blog/tomcat-slashes
+  title: Tomcat Hates Encoded Slashes
+  summary: Tomcat will treat encoded slashes in a URI as path delimiters. I'll demonstrate how this can cause you problems, why it occurs, and how you can work around it.
