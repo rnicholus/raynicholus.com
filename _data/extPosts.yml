@@ -1,6 +1,6 @@
 - url: https://leanpub.com/beyondjquery
   title: Beyond jQuery
-  summary: A book-in-progress “Beyond jQuery” that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
+  summary: A book-in-progress that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
 
 - url: http://blog.garstasio.com/you-dont-need-jquery
   title: You Don't Need jQuery!
@@ -16,4 +16,4 @@
 
 - url: http://blog.fineuploader.com/2013/11/01/full-stack-javascript-image-uploader-using-angularjs-node-js/
   title: Full-Stack JavaScript Image Uploader
-  summary: Are you a big fan of JavaScript? Would you prefer to use JS in the browser and on the server? I'll show you how to do all of this with Fine Uploader, AngularJS, and Node.js.
+  summary: Are you a big fan of JavaScript? Would you prefer to use JS both in the browser and on the server? I'll show you how to do all of this with Fine Uploader, AngularJS, and Node.js.
