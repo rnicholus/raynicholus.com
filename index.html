@@ -8,7 +8,9 @@ layout: default
     <div class="entry">
       {{ extPost.summary}}
     </div>
-    <a href="{{ extPost.url }}" class="read-more">Read More</a>
+    <p>
+      <a href="{{ extPost.url }}" class="read-more">Read More</a>
+    </p>
   </article>
 {% endfor %}
 
@@ -18,7 +20,9 @@ layout: default
       <div class="entry">
         {{ post.content | truncatewords:40}}
       </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <p>
+        <a href="{{ extPost.url }}" class="read-more">Read More</a>
+      </p>
     </article>
 {% endfor %}
 </div>
