@@ -1,3 +1,7 @@
+- url: http://engineering.widen.com/blog/future-of-the-web-react-falcor
+  title: The Future of Web Development - React, Falcor, and ES6
+  summary: The future of web application development looks a bit different than what we are all used to. I'll show you how to build a simple full-stack JavaScript app using Node.js on the backend, React on the frontend, Webpack for client-side module support, and Netflix's Falcor as an efficient and intuitive alternative to the traditional REST API.
+  
 - url: https://leanpub.com/beyondjquery
   title: Beyond jQuery
   summary: A book-in-progress that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
