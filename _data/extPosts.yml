@@ -1,5 +1,5 @@
 - url: http://engineering.widen.com/blog/testing-future-web-stack/
-  title: The Future of Web Development (Part 2) - Full-Stack Automated JavaScript Testing
+  title: The Future of Web Development (Part 2): Full-Stack Automated JavaScript Testing
   summary: In my last article, I showed you how to develop a full-stack JavaScript web application using some pretty interesting and futuristic libraries and web specifications. In this follow-up, I'm going to demonstrate how you can write server-side and client-side unit and integration/Selenium tests for that app entirely in JavaScript.
   
 - url: http://engineering.widen.com/blog/future-of-the-web-react-falcor
