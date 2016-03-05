@@ -13,7 +13,7 @@ footer-links:
 #google_analytics: UA-56385927-1
 url: http://raynicholus.com/posts
 baseurl: ""
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
     extensions: [with_toc_data]
 highlighter: pygments
