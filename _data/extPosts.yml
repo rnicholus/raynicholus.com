@@ -18,6 +18,10 @@
   title: Tomcat Hates Encoded Slashes
   summary: Tomcat will treat encoded slashes in a URI as path delimiters. I'll demonstrate how this can cause you problems, why it occurs, and how you can work around it.
 
+- url: https://medium.com/@RayNicholus/sleep-is-for-quitters-6fa843960825#.igawmooe0
+  title: Sleep is for Quitters
+  summary: I was a CS student long ago, but still remember the life. I’ve learned a lot since then and have a successful career. Perhaps I could have evolved much faster with a better initial understanding of this profession. Knowing the lessons I learned will help you avoid some of my mistakes.
+  
 - url: http://blog.fineuploader.com/2014/01/15/uploads-without-any-server-code/
   title: Uploading Files Directly To Amazon S3
   summary: In this post, you'll learn how to upload files to an Amazon S3 bucket from the browser without involving a server. Fine Uploader will be used as the primary tool to facilitate this workflow.
