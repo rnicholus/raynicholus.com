@@ -1,3 +1,7 @@
+- url: https://medium.com/@RayNicholus/disrupting-open-source-the-story-of-fine-uploader-80160eb557d9#.8ft3mq1b1
+  title: Disrupting Open Source - The Story of Fine Uploader
+  summary: This is the story of my involvement with Fine Uploader, how it changed my life, how it affected those around me and my peers at Widen, and how I hope it can continue to have a positive net effect on the open source community and individual developers.
+
 - url: http://engineering.widen.com/blog/testing-future-web-stack/
   title: The Future of Web Development (Part 2)&#58; Full-Stack Automated JavaScript Testing
   summary: In my last article, I showed you how to develop a full-stack JavaScript web application using some pretty interesting and futuristic libraries and web specifications. In this follow-up, I'm going to demonstrate how you can write server-side and client-side unit and integration/Selenium tests for that app entirely in JavaScript.
