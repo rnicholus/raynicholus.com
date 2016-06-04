@@ -1,35 +1,44 @@
 - url: https://medium.com/@RayNicholus/disrupting-open-source-the-story-of-fine-uploader-80160eb557d9#.8ft3mq1b1
   title: Disrupting Open Source - The Story of Fine Uploader
   summary: This is the story of my involvement with Fine Uploader, how it changed my life, how it affected those around me and my peers at Widen, and how I hope it can continue to have a positive net effect on the open source community and individual developers.
+  date: 2016-05-19 00:00:00 -0000
 
 - url: http://engineering.widen.com/blog/testing-future-web-stack/
   title: The Future of Web Development (Part 2)&#58; Full-Stack Automated JavaScript Testing
   summary: In my last article, I showed you how to develop a full-stack JavaScript web application using some pretty interesting and futuristic libraries and web specifications. In this follow-up, I'm going to demonstrate how you can write server-side and client-side unit and integration/Selenium tests for that app entirely in JavaScript.
+  date: 2016-02-12 00:00:00 -0000
   
 - url: http://engineering.widen.com/blog/future-of-the-web-react-falcor
   title: The Future of Web Dev - React, Falcor, and ES6
   summary: The future of web application development looks a bit different than what we are all used to. I'll show you how to build a simple full-stack JavaScript app using Node.js on the backend, React on the frontend, Webpack for client-side module support, and Netflix's Falcor as an efficient and intuitive alternative to the traditional REST API.
+  date: 2015-10-12 00:00:00 -0000
   
 - url: https://leanpub.com/beyondjquery
   title: Beyond jQuery
   summary: A book-in-progress that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
+  date: 2016-06-02 00:00:00 -0000
 
 - url: http://blog.garstasio.com/you-dont-need-jquery
   title: You Don't Need jQuery!
   summary: A seven-part series that will help free you from the chains of jQuery by showing you how to embrace and understand the modern web API and JavaScript.
+  date: 2015-05-29 00:00:00 -0000
 
 - url: http://engineering.widen.com/blog/tomcat-slashes
   title: Tomcat Hates Encoded Slashes
   summary: Tomcat will treat encoded slashes in a URI as path delimiters. I'll demonstrate how this can cause you problems, why it occurs, and how you can work around it.
+  date: 2015-09-02 00:00:00 -0000
 
 - url: https://medium.com/@RayNicholus/sleep-is-for-quitters-6fa843960825#.igawmooe0
   title: Sleep is for Quitters
   summary: I was a CS student long ago, but still remember the life. I’ve learned a lot since then and have a successful career. Perhaps I could have evolved much faster with a better initial understanding of this profession. Knowing the lessons I learned will help you avoid some of my mistakes.
+  date: 2014-09-07 00:00:00 -0000
   
 - url: http://blog.fineuploader.com/2014/01/15/uploads-without-any-server-code/
   title: Uploading Files Directly To Amazon S3
   summary: In this post, you'll learn how to upload files to an Amazon S3 bucket from the browser without involving a server. Fine Uploader will be used as the primary tool to facilitate this workflow.
+  date: 2014-01-15 00:00:00 -0000
 
 - url: http://blog.fineuploader.com/2013/11/01/full-stack-javascript-image-uploader-using-angularjs-node-js/
   title: Full-Stack JavaScript Image Uploader
   summary: Are you a big fan of JavaScript? Would you prefer to use JS both in the browser and on the server? I'll show you how to do all of this with Fine Uploader, AngularJS, and Node.js.
+  date: 2016-01-22 00:00:00 -0000
