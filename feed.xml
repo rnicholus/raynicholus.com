@@ -8,6 +8,15 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    {% for extPost in site.data.extPosts %}
+      <item>
+        <title>{{ extPost.title | xml_escape }}</title>
+        <description>{{ extPost.summary | xml_escape }}</description>
+        <pubDate>{{ extPost.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ extPost.url }}</link>
+        <guid isPermaLink="true">{{ extPost.url }}</guid>
+      </item>
+    {% endfor %}
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
