@@ -32,6 +32,16 @@
   title: Sleep is for Quitters
   summary: I was a CS student long ago, but still remember the life. I’ve learned a lot since then and have a successful career. Perhaps I could have evolved much faster with a better initial understanding of this profession. Knowing the lessons I learned will help you avoid some of my mistakes.
   date: 2014-09-07 00:00:00 -0000
+
+- url: https://youtu.be/qegy8CC5zN4
+  title: Part 1: What is the File API?
+  summary: A MadJS meetup presentation with live coding. I talk about and show you how to make use of the most interesting portions of the W3C File API, including image and video file dropping & processing.  Part 1 of 2.
+  date: 2014-05-17 00:00:00 -0000
+  
+- url: https://youtu.be/zYDBUmH4RGE
+  title: Part 2: What is the File API?
+  summary: A MadJS meetup presentation with live coding. I talk about and show you how to make use of the most interesting portions of the W3C File API, including image and video file dropping & processing.  Part 2 of 2.
+  date: 2014-05-17 00:00:00 -0000
   
 - url: http://blog.fineuploader.com/2014/01/15/uploads-without-any-server-code/
   title: Uploading Files Directly To Amazon S3
