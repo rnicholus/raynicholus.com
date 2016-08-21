@@ -1,3 +1,8 @@
+- url: https://amzn.com/1484222342
+  title: Beyond jQuery
+  summary: A book that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
+  date: 2016-08-20 00:00:00 -0000
+
 - url: https://medium.com/@RayNicholus/disrupting-open-source-the-story-of-fine-uploader-80160eb557d9#.8ft3mq1b1
   title: Disrupting Open Source - The Story of Fine Uploader
   summary: This is the story of my involvement with Fine Uploader, how it changed my life, how it affected those around me and my peers at Widen, and how I hope it can continue to have a positive net effect on the open source community and individual developers.
@@ -13,11 +18,6 @@
   summary: The future of web application development looks a bit different than what we are all used to. I'll show you how to build a simple full-stack JavaScript app using Node.js on the backend, React on the frontend, Webpack for client-side module support, and Netflix's Falcor as an efficient and intuitive alternative to the traditional REST API.
   date: 2015-10-12 00:00:00 -0000
   
-- url: https://amzn.com/1484222342
-  title: Beyond jQuery
-  summary: A book that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
-  date: 2016-06-02 00:00:00 -0000
-
 - url: http://blog.garstasio.com/you-dont-need-jquery
   title: You Don't Need jQuery!
   summary: A seven-part series that will help free you from the chains of jQuery by showing you how to embrace and understand the modern web API and JavaScript.
