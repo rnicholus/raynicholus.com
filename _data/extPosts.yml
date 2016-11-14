@@ -3,6 +3,11 @@
   summary: A book that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
   date: 2016-08-20 00:00:00 -0000
 
+- url: http://programmingpoetry.com
+  title: Programming Poetry
+  summary: Express your coding thoughts as a Haiku, Sonnet, or even a Cinquain.
+  date: 2016-11-14 00:00:00 -0000
+
 - url: https://medium.com/@RayNicholus/disrupting-open-source-the-story-of-fine-uploader-80160eb557d9#.8ft3mq1b1
   title: Disrupting Open Source - The Story of Fine Uploader
   summary: This is the story of my involvement with Fine Uploader, how it changed my life, how it affected those around me and my peers at Widen, and how I hope it can continue to have a positive net effect on the open source community and individual developers.
