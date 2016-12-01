@@ -3,6 +3,11 @@
   summary: A book that aims to educate web developers and give them the confidence to abandon their jQuery crutches and walk freely with the power of the web API and JavaScript. You will learn about the most important concepts surrounding web development as I demystify jQuery!
   date: 2016-08-20 00:00:00 -0000
 
+- url: http://www.widen.com/blog/highlighting-the-release-of-beyond-jquery-a-book-by-ray-nicholus
+  title: Highlighting the release of Beyond jQuery - A book by Ray Nicholus
+  summary: I was interviewed by Widen Enterprises regarding my book, Beyond jQuery. This is the accompanying article which includes a quote from the director of software development.
+  date: 2016-11-14 00:00:00 -0000
+
 - url: http://programmingpoetry.com
   title: Programming Poetry
   summary: Express your coding thoughts as a Haiku, Sonnet, or even a Cinquain.
@@ -57,3 +62,8 @@
   title: Full-Stack JavaScript Image Uploader
   summary: Are you a big fan of JavaScript? Would you prefer to use JS both in the browser and on the server? I'll show you how to do all of this with Fine Uploader, AngularJS, and Node.js.
   date: 2016-01-22 00:00:00 -0000
+
+- url: http://fortune.com/2014/09/30/google-glass-at-work/
+  title: Using Google Glass at Work
+  summary: I was interview by Anne Fisher of Fortune Magazine regarding the use of Google Glass in the workplace. This is the accompanying artcle published by Fortune.
+  date: 2014-09-30 00:00:00 -0000
