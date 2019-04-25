@@ -9,8 +9,6 @@ footer-links:
   rss: rss
   twitter: RayNicholus
   stackoverflow: users/486979/ray-nicholus
-#disqus: raynicholusposts
-#google_analytics: UA-56385927-1
 url: http://raynicholus.com/posts
 baseurl: ""
 markdown: kramdown
