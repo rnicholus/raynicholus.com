@@ -16,7 +16,7 @@ But maybe that's a path towards articulating important traits of a manager. Perh
 
 Though getting candid feedback from your direct reports is...tricky. So perhaps a good manager must be able to make his or her direct reports feel comfortable sharing this feedback. This may not always be possible, so a good manager must be able to "read between the lines", "take the temperature of the room", "look for patterns" and various other detective tasks.
 
-But being a good manager probably isn't as simple as feeding inputs into an algorithm to produce an output of a progressively better manager. So, there must be something else. I suppose a good manager must be confident, have solid intuition. She will have to trust her gut from time to time. Having the confidence and experience to do that is what I think also contributes to the success of a manager.
+But being a good manager probably isn't as simple as feeding inputs into an algorithm to produce an output of a progressively better manager. So, there must be something else. I suppose a good manager must be confident, have solid intuition. She will have to trust her gut from time to time. Having the confidence and experience to do that also contributes to the success of a manager.
 
 Additionally, a good manager should be able to earn the respect of her direct reports. She should understand the work her direct reports must complete on a daily basis, and _must_ be able to complete this work herself. She must be able to serve as a model for her direct reports. She leads by example in every possible way, all the time. Surely, this is not overly common, but then neither are great managers, are they?
 
