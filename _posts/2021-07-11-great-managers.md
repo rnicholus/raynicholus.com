@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The \"3-5 traits of a great manager\" question"
+summary: "Does anyone _really_ know what makes a great manager? No, not really, but we can enumerate some likely valuable goals."
 date: 2021-07-11 21:00:00 -0500
 categories: management
 ---
