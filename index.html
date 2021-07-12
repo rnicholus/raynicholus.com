@@ -8,18 +8,6 @@ layout: default
 </div>
 
 <div class="posts">
-{% for extPost in site.data.extPosts %}
-  <article class="post">
-    <h1><a href="{{ extPost.url }}">{{ extPost.title }}</a></h1>
-    <div class="entry">
-      {{ extPost.summary}}
-    </div>
-    <p>
-      <a href="{{ extPost.url }}" class="read-more">Read More</a>
-    </p>
-  </article>
-{% endfor %}
-
 {% for post in site.posts reversed %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -30,5 +18,17 @@ layout: default
         <a href="{{ extPost.url }}" class="read-more">Read More</a>
       </p>
     </article>
+{% endfor %}
+
+{% for extPost in site.data.extPosts %}
+  <article class="post">
+    <h1><a href="{{ extPost.url }}">{{ extPost.title }}</a></h1>
+    <div class="entry">
+      {{ extPost.summary}}
+    </div>
+    <p>
+      <a href="{{ extPost.url }}" class="read-more">Read More</a>
+    </p>
+  </article>
 {% endfor %}
 </div>
