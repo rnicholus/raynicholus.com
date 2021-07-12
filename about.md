@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is Ray Nicholus, and I'm a full-stack and front-end software engineer with 13 years of professional experience. I'm also the lead developer and product manager of [Fine Uploader](http://fineuploader.com/).
-I like to write, blog, and [talk about software](http://slides.com/raynicholus)
-in my free time. I've also recently written and published a web development book named [Beyond jQuery](https://amzn.com/1484222342).
+My name is Ray Nicholus, and I'm a senior engineering mananger, full-stack, and front-end software engineer with 17 years of professional experience. I'm also the lead developer and product manager of [Fine Uploader](http://fineuploader.com/).
+
+I like to write, blog, and [talk about software](http://slides.com/raynicholus) in my free time. I've also recently written and published a web development book named [Beyond jQuery](https://amzn.com/1484222342).
 
 ### Find me
 - Beyond jQuery (my first book, published November 2016): [on Amazon](https://amzn.com/1484222342)   
