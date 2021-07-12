@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spinning the \"3-5 traits of a great manager\" question"
+title: "The \"3-5 traits of a great manager\" question"
 date: 2021-07-11 21:00:00 -0500
 categories: management
 ---
