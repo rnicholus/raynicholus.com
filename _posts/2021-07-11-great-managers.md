@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "POST TITLE"
+title: "Spinning the \"3-5 traits of a great manager\" question"
 date: 2021-07-11 21:00:00 -0500
 categories: management
 ---
-
 
 Back when I had a LinkedIn account, I'd see a familiar question populate my inbox from recruiters looking to fill engineering manager positions. In fact, I saw this question so often that I finally decided to answer it...sort of. 
 
