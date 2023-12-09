@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Ray Nicholus, and I'm an Engineering leader and front-end software engineer with many years of professional experience. I also co-created and maintained [Fine Uploader](http://fineuploader.com/) for 7 years before sunsetting the project.
 
-I like to write, blog, and [talk about software](http://slides.com/raynicholus) in my free time. I've also written and published a web development book named [Beyond jQuery](https://amzn.com/1484222342).
+I like to write, blog, and [talk about software](http://slides.com/raynicholus) in my free time. I've also written and published a web development book named [Beyond jQuery](https://a.co/d/8KLLOhG).
 
 
 
