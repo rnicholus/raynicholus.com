@@ -11,7 +11,7 @@ I like to write, blog, and [talk about software](http://slides.com/raynicholus) 
 
 
 ### Find me
-- My current [resume/CV](/documents/resume.pdf)
+- My current [resume/CV](/documents/Ray_Nicholus_Resume.docx)
 - Beyond jQuery (my first book, published November 2016): [on Amazon](https://www.amazon.com/Beyond-jQuery-Ray-Nicholus/dp/1484222342)   
 - My Amazon author page: [https://www.amazon.com/author/raynicholus](https://www.amazon.com/author/raynicholus)
 - Fine Uploader Blog: [all articles](http://blog.fineuploader.com/)  
